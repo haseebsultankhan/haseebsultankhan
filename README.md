@@ -26,32 +26,31 @@ My experience encompasses working with diverse domains, including health monitor
 - Intelligent Document Processing System: An OCR system that recognizes and extracts data from various identification documents like national IDs, passports, and driver's licenses.
 
 ## Certifications: [Verify at Credly](https://www.credly.com/users/haseeb-sultan/badges)
-- ####IBM Data Science:
+- **IBM Data Science:**
   - Data Science Foundations - Level 2 (V2)
   - Data Science Tools
   - Data Science Methodologies
   - Data Science Foundations - Level 1
   - Applied Data Science with Python - Level 2
-- ####IBM Deep Learning:
+- **IBM Deep Learning:**
   - Deep Learning
   - Accelerated Deep Learning with GPU
   - Deep Learning using TensorFlow
   - Deep Learning Essentials
-- ####Machine Learning:
+- **Machine Learning:**
   - Machine Learning with Python - Level 1 (IBM)
-- ####Data Analysis and Visualization:
+- **Data Analysis and Visualization:**
   - Data Visualization Using Python (IBM)
   - Data Analysis Using Python (IBM)
-- ####Python:
+- **Python:**
   - Python for Data Science (IBM)
-- ####Security:
+- **Security:**
   - ISC2 Candidate (ISC2)
-- ####Microsoft:
+- **Microsoft:**
   - Microsoft Certified: Security, Compliance, and Identity Fundamentals
 
 ### Contact Me
 - [LinkedIn](https://www.linkedin.com/in/haseebsultan/)
 - [Github](https://github.com/haseebsultankhan)
-
 
 ## Feel free to reach out if you're interested in collaborating on projects or if you have opportunities that align with my expertise.
