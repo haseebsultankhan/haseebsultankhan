@@ -1,7 +1,8 @@
 # Hello, I'm Haseeb Sultan👋
 
 ## About Me
-Highly motivated Data Scientist with a Master's in Systems Engineering, currently holding the position of Assistant Director of Data Analytics at NADRA Pakistan. I specialize in machine learning, particularly Generative AI, Large Language Models (LLMs), Data Analytics, Deep Learning, and Cloud Engineering for deploying solutions on AWS and Azure. Certified by IBM and NVIDIA in Machine Learning, Deep Learning, Data Science, Data Analytics, and Microsoft Security.
+Highly motivated Data Scientist with a Master's in Systems Engineering, currently holding the position of Assistant Director of Data Analytics at NADRA Pakistan. I specialize in machine learning, particularly Generative AI, Large Language Models (LLMs), Data Analytics, Deep Learning, and Cloud Engineering for deploying solutions on AWS and Azure. 
+Certified by IBM and NVIDIA in Machine Learning, Deep Learning, Data Science, Data Analytics, and Microsoft Security.
 
 My experience encompasses working with diverse domains, including health monitoring, data-driven decision making in banking, image/audio processing and manipulation, and data extraction from large, complex datasets.
 
