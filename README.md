@@ -25,7 +25,7 @@ My experience encompasses working with diverse domains, including health monitor
 - Gender Verification System: Implemented a deep learning-based solution to identify gender and flag potential discrepancies with database entries.
 - Intelligent Document Processing System: An OCR system that recognizes and extracts data from various identification documents like national IDs, passports, and driver's licenses.
 
-### Certifications: [Credly](https://www.credly.com/users/haseeb-sultan/badges)
+### Certifications: [Verify at Credly](https://www.credly.com/users/haseeb-sultan/badges)
 - IBM Data Science:
   - Data Science Foundations - Level 2 (V2)
   - Data Science Tools
@@ -52,4 +52,6 @@ My experience encompasses working with diverse domains, including health monitor
 ### Contact Me
 - [LinkedIn](https://www.linkedin.com/in/haseebsultan/)
 - [Github](https://github.com/haseebsultankhan)
-Feel free to reach out if you're interested in collaborating on projects or if you have opportunities that align with my expertise.
+
+
+## Feel free to reach out if you're interested in collaborating on projects or if you have opportunities that align with my expertise.
