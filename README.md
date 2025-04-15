@@ -1,58 +1,49 @@
-# Hello, I'm Haseeb Sultan👋
+# 👋 Hi, I'm Haseeb Sultan
 
-## About Me
-Highly motivated Data Scientist with a Master's in Systems Engineering, currently holding the position of Assistant Director of Data Analytics at NADRA Pakistan. I specialize in machine learning, particularly Generative AI, Large Language Models (LLMs), Data Analytics, Deep Learning, and Cloud Engineering for deploying solutions on AWS and Azure. 
+## 🚀 About Me
+I’m a Data Scientist & Machine Learning Engineer with strong expertise in deploying AI systems at scale — both in cloud and offline setups. Currently serving as Assistant Director of Data Analytics (AI Lead) at NADRA, Pakistan.
 
-Certified by IBM , Microsoft and Nvidia
+I specialize in:
+- Generative AI & Large Language Models (LLMs)
+- Federated & Distributed Learning
+- Real-time OCR, Speech-to-Text & Biometric Intelligence
+- Scalable Deployments on **AWS, Azure, and On-Prem**
 
-My experience encompasses working with diverse domains, including health monitoring, data-driven decision making in banking, image/audio processing and manipulation, and data extraction from large, complex datasets.
+🧠 My academic background includes an MS in Systems Engineering from NUST, and I am a certified professional from **IBM, Microsoft, NVIDIA**, and **AWS**.
 
-## Expertise
-- Generative AI: Successfully deployed large language models (LLMs) like LLAMA-3 and Gemma 12-B on a local network (LAN), making them accessible to everyone within the network.
-- Data Analytics: Skilled at transforming complex datasets into actionable insights, driving informed decision-making.
-- Machine Learning: Possess extensive knowledge in neural networks, deep learning, and algorithm optimization techniques.
-- Project Highlights:
-  - Health Monitoring: Leveraged neural networks to classify 12-lead ECG signals, potentially aiding in early disease detection.
-  - Data Driven Banking: Utilized data analytics to extract valuable insights for informed banking decisions.
-  - Image Processing: Successfully deployed and fine-tuned Stable Diffusion for creative content generation and deep fake detection across various media formats.
+## 🔧 Skills & Technologies
+- **Languages**: Python, Bash, Shell Scripting
+- **Frameworks**: PyTorch, TensorFlow, Scikit-Learn, Flask, Gradio, FastAPI, Streamlit
+- **Cloud & DevOps**: AWS, Azure, GCP, Docker, MLflow, Azure DevOps
+- **ML Expertise**: Generative AI, LLMs (Mistral, Gemma, LLAMA), Anomaly Detection, Federated Learning, CV/NLP
+- **Certifications**: [IBM | Microsoft | NVIDIA | AWS](https://www.credly.com/users/haseeb-sultan)
 
-## Tools and Technologies
-- Languages: Python
-- Frameworks/Libraries: TensorFlow, PyTorch, Scikit-Learn, Keras, FastAPI, Flask, Django, Streamlit
-- Tools: Postman, Docker, Kubernetes, GitHub
-- Cloud Platforms: Amazon Web Services (AWS), Microsoft Azure
+## 💼 Recent Projects
+- **Offline Speech-to-Text + LLM Form Assistant**: Transcription + Form Filling for NADRA
+- **LLMs on LAN**: Deployed Gemma, Mistral, and LLAMA for internal users without internet dependency
+- **OCR Document Processing**: Extracted data from passports, NICs using YOLO + Tesseract
+- **Federated Learning Frameworks**: FL for anomaly & object detection (YOLOv5/v8)
+- **Biometric Background Removal**: Deployed ICAO-compliant background replacer using MODNet
+- **Azure Functions for CEO Reporting**: Auto-email work summaries from dashboards
 
-## Current Projects
-- Automated Attendance System: Developed a real-time face detection system that integrates with a database for efficient attendance marking.
-- Gender Verification System: Implemented a deep learning-based solution to identify gender and flag potential discrepancies with database entries.
-- Intelligent Document Processing System: An OCR system that recognizes and extracts data from various identification documents like national IDs, passports, and driver's licenses.
+## 📚 Publications
+- *Reinforcement Learning for ECG Classification*  
+  [arXiv:2401.04938](https://doi.org/10.48550/arXiv.2401.04938)  
+- *Sepsis Stage Prediction via ML in ICU Patients*  
+  [medRxiv:2022.03.15.22271655](https://doi.org/10.1101/2022.03.15.22271655)
 
-## Certifications: [Verify at Credly](https://www.credly.com/users/haseeb-sultan/badges)
-- **IBM Data Science:**
-  - Data Science Foundations - Level 2 (V2)
-  - Data Science Tools
-  - Data Science Methodologies
-  - Data Science Foundations - Level 1
-  - Applied Data Science with Python - Level 2
-- **IBM Deep Learning:**
-  - Deep Learning
-  - Accelerated Deep Learning with GPU
-  - Deep Learning using TensorFlow
-  - Deep Learning Essentials
-- **Machine Learning:**
-  - Machine Learning with Python - Level 1 (IBM)
-- **Data Analysis and Visualization:**
-  - Data Visualization Using Python (IBM)
-  - Data Analysis Using Python (IBM)
-- **Python:**
-  - Python for Data Science (IBM)
-- **Security:**
-  - ISC2 Candidate (ISC2)
-- **Microsoft:**
-  - Microsoft Certified: Security, Compliance, and Identity Fundamentals
+## 📌 Notable Highlights
+- 85% uplift in NLP model accuracy using custom LLM fine-tuning
+- Reduced cloud deployment time by 70% using Azure DevOps & CI/CD
+- Improved fraud detection by 20% using ML at Askari Bank
+- Managed 10+ production ML endpoints with 99.9% uptime
 
-### Contact Me
-- [LinkedIn](https://www.linkedin.com/in/haseebsultan/)
-- [Github](https://github.com/haseebsultankhan)
+## 📬 Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/haseebsultan/)
+- 📁 [Credly Badges](https://www.credly.com/users/haseeb-sultan)
+- 💻 [GitHub](https://github.com/haseebsultankhan)
+- 📫 haseebsultankhan19@gmail.com
 
-## Feel free to reach out if you're interested in collaborating on projects or if you have opportunities that align with my expertise.
+---
+
+🧠 *Let’s collaborate on anything AI — from LLMs to real-time data intelligence.*
